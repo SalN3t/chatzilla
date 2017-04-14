@@ -1,0 +1,17 @@
+{
+  "name": "CompanyChat",
+  "version": "0.0.1",
+  "description": "A simple chat client using socket.io",
+  "main": "index.js",
+  "author": "Salah Alarfaj",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "engine.io": "^3.0.0",
+    "express": "^4.13.4",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
